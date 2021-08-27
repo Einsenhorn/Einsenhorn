@@ -1,6 +1,6 @@
 Hi there! 👋
 
-I’m @Einsenhorn a French developer who enjoy solving problems, writing code to improve a product or trying something new 😀
+I’m [Einsenhorn](https://github.com/Einsenhorn) a French developer who enjoy solving problems, writing code to improve a product or trying something new 😀
 
 I’m interested by the majority of Javascript Frontend technologies/frameworks/libraries, NodeJS, ... (not interested by PHP/Ruby/Java).
 
